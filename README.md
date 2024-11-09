@@ -19,6 +19,7 @@
 支持账户：SBI/SIB/RBL/KOTAK/CANARA/INDINABK/MAHARASHTRA/BOB/BOI/HDFC/IOB/UCO/FED/PNB/IDFC等
 
 提供高效、安全的支付对接，系统搭建完善，技术支持专业，保障客户业务顺畅运行。
+![卡接系统](图片URL或路径)
 
 
 
@@ -46,5 +47,8 @@
 
 
 以上产品均可出租/出售，如需了解更多服务详情，请联系TG：[Big Dipper 客服](https://t.me/BigDipperCSR)
+
+
+
 更多资讯，请关注TG：[BigDipper-IndianPayment](https://t.me/BigDipperITService)
 
