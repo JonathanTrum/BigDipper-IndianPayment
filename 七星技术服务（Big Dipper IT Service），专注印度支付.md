@@ -19,7 +19,7 @@
 支持账户：SBI/SIB/RBL/KOTAK/CANARA/INDINABK/MAHARASHTRA/BOB/BOI/HDFC/IOB/UCO/FED/PNB/IDFC等
 
 提供高效、安全的支付对接，系统搭建完善，技术支持专业，保障客户业务顺畅运行。
-![](C:\Users\86138\Desktop\工作\系统\通道\系统对接\后台.jpg)
+
 
 
 
@@ -31,7 +31,7 @@
 
 创新支付流程设计，结构完整，助力客户降低成本，提高运营效率。
 
-![PF](C:\Users\86138\Desktop\PF.png)
+
 
 
 
@@ -45,7 +45,7 @@
 
 **提供TG机器人，自助查补单**；**提供记账机器人**；**OTP实时监控，掉线预警**；**收款账户余额预警**；**后台账户预警，风险控制**等。
 
-<img src="C:\Users\86138\Desktop\工作\系统\通道\系统对接\监控.jpg" alt="监控" style="zoom: 67%;" />
+
 
 
 
