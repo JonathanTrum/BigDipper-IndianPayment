@@ -50,5 +50,4 @@
 
 
 
-更多资讯，请关注TG：[BigDipper-IndianPayment](https://t.me/BigDipperITService)
 
