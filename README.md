@@ -48,7 +48,7 @@
 
 以上产品均可出租/出售，如需了解更多服务详情，请联系TG：[Big Dipper 客服](https://t.me/JonathanITS)(最新联系方式：@JonathanITS)
 
-若上述联系方式失效，请添加备用TG联系方式：[Big Dipper 客服备用](https://t.me/busOrCar)(备用联系方式：@busOrCar)
+若上述联系方式失效，请添加备用TG联系方式：[Big Dipper 客服备用](https://t.me/JonathanITSR)(备用联系方式：@JonathanITSR)
 
 
 
