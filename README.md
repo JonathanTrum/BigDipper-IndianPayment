@@ -47,7 +47,7 @@
 ![机器人示例](https://github.com/JonathanTrum/BigDipper-IndianPayment/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9B%91%E6%8E%A7%E7%A4%BA%E4%BE%8B.jpg)
 
 
-以上产品均可出租/出售，如需了解更多服务详情，请联系TG：[Big Dipper 客服](https://t.me/JonathanITS)(最新联系方式：@JonathanITS)
+以上产品均可出租，如需了解更多服务详情，请联系TG：[Big Dipper 客服](https://t.me/JonathanITS)(最新联系方式：@JonathanITS)
 
 若上述联系方式失效，请添加备用TG联系方式：[Big Dipper 客服备用](https://t.me/JonathanITSR)(备用联系方式：@JonathanITSR)
 
