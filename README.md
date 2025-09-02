@@ -35,8 +35,6 @@
 ![跑分系统后台示例](https://github.com/JonathanTrum/BigDipper-IndianPayment/blob/main/%E8%B7%91%E5%88%86%E5%90%8E%E5%8F%B0%E7%A4%BA%E4%BE%8B.png)
 
 
-🤝 **撮合系统**：系统内部将代收订单与代付订单直接撮合，点对点交易，简化交易流程，解决账户少、账户风控、无账户等难题，将成本、风控降至最低。支持大规模交易撮合，以领先的支付架构实现低成本、高产出的支付模式，帮助客户实现商业效益最大化。
-
 每个系统每日交易量均达**5000万**以上，最高支持**亿级**交易量。
 
 
@@ -47,9 +45,10 @@
 ![机器人示例](https://github.com/JonathanTrum/BigDipper-IndianPayment/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9B%91%E6%8E%A7%E7%A4%BA%E4%BE%8B.jpg)
 
 
-以上产品均可出租，如需了解更多服务详情，请联系TG：[Big Dipper 客服](https://t.me/JonathanITS)(最新联系方式：@JonathanITS)
+以上产品均可出租，如需了解更多服务详情，请联系TG：[Big Dipper 客服](https://t.me/JonathanITS)(最新联系方式：@JonathanITS)，[Big Dipper 商务](https://t.me/nova1688)(最新联系方式：@nova1688)
 
 若上述联系方式失效，请添加备用TG联系方式：[Big Dipper 客服备用](https://t.me/JonathanITSR)(备用联系方式：@JonathanITSR)
+
 
 
 
